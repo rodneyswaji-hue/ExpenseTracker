@@ -95,7 +95,7 @@ Navigate by typing the number of your choice.
 
 ## License
 
-MIT License.
+Rodmas.
 
 ------------------------------------------------------------------------
 
